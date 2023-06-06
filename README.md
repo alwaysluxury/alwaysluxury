@@ -26,3 +26,5 @@ My main bot is https://grootie.xyz
 [![Streak](https://github-readme-streak-stats.herokuapp.com/?user=alwaysluxury&hide_border=true&background=0D1117&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&dates=FFFFFF&sideNums=FFFFFF&fire=f04848&ring=f04848&stroke=FFFFFFFF)]()
 
 [![Badges](https://github-readme-stats.vercel.app/api/top-langs/?username=alwaysluxury&theme=dark)]()
+
+[![Summary](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=alwaysluxury&theme=dark)]()
