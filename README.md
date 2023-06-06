@@ -3,7 +3,7 @@
 I'm ***lux***. Born at **9th of august**. I currently live in Germany but was born in Albania. Programming is just a hobby of mine. <br />
 I am a male and my pronouns are **he/him**. <br />
  
-My website can be find at https://luxurydev.eu
+My website can be found at https://luxurydev.eu<br />
 My main bot is https://grootie.xyz
 
 ### Languages And Frameworks
