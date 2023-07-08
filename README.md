@@ -4,6 +4,7 @@ I'm ***lux***. Born at **9th of august**. I currently live in Germany but was bo
 I am a male and my pronouns are **he/him**. <br />
  
 My website can be found at https://luxurydev.eu<br />
+Information about me can be found at https://alwaysluxury.luxurydev.eu<br />
 My main bot is https://grootie.xyz
 
 ### Languages And Frameworks
